@@ -1,2 +1,2 @@
-# Learning_Hello_World
-Exploring to learn and implement coding methodologies
+# Writing samples
+This repository will be dedicated to keep safe the writing samples.
